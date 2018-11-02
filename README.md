@@ -1,4 +1,4 @@
-# CS380_Project (FTP)
+# Wireless File Transfer Application
 
 Group - AppleVictims
 Members - Allen Lam, Dylan Nguyen, John Ung, Sai Padmanaban
